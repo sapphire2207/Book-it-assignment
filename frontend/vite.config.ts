@@ -8,7 +8,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "https://book-it-assignment.vercel.app/",
+        target: "https://book-it-assignment.vercel.app",
         changeOrigin: true,
         secure: false,
       },
