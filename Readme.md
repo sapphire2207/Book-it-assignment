@@ -7,9 +7,8 @@ Built with **React (Vite + TypeScript)** on the frontend and **Node.js + Express
 
 ## Live Demo
 
-**Frontend:** [https://your-frontend-link.vercel.app](#)  
-**Backend (API):** [https://your-backend-link.onrender.com](#)  
-**GitHub Repository:** [https://github.com/yourusername/bookit](#)
+**Frontend:** [https://book-it-assignment-8iqk.vercel.app/](#)   
+**GitHub Repository:** [https://github.com/sapphire2207/Book-it-assignment](#)
 
 ---
 
