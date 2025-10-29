@@ -178,7 +178,7 @@ const SelectDetails: React.FC = () => {
 
           {/* Sidebar */}
           <div className="lg:col-span-1">
-            <div className="bg-[#efefef] rounded-lg shadow-sm p-6 sticky top-6">
+            <div className="bg-[#efefef] rounded-lg shadow-sm p-6">
               <div className="space-y-4">
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-[#656565] text-md">Starts at</span>
