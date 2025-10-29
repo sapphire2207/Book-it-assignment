@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #ffd24a;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #fafafa;
+  color: #111827;
+}
+
+.card-bg {
+  background-color: #f3f3f3;
+}
